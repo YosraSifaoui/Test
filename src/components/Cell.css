@@ -1,0 +1,23 @@
+.cell {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: green;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+.cell.greenyellow {
+  background-color: greenyellow;
+}
+
+.cell img {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
